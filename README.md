@@ -1,4 +1,4 @@
-# Hi 👋 I'm Cevdet Tufan
+# Hi I'm Cevdet Tufan
 
 Senior .NET Developer with 10+ years of experience building enterprise applications, APIs and financial systems.
 
@@ -6,7 +6,7 @@ I specialize in backend development using .NET technologies and have worked on l
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 * 💻 10+ years professional experience in software development
 * ⚙️ Specialized in **.NET, ASP.NET Core, Web API**
@@ -22,6 +22,7 @@ I specialize in backend development using .NET technologies and have worked on l
 **Languages**
 
 C#, SQL
+Dart (learning)
 
 **Frameworks**
 
@@ -61,13 +62,6 @@ Features:
 Google Play:
 
 https://play.google.com/store/apps/details?id=com.wordivio.hangman
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CevdetTufan\&show_icons=true)
-
----
 
 ## 🌐 Connect
 
