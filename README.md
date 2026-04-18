@@ -13,7 +13,6 @@ I specialize in backend development using .NET technologies and have worked on l
 * 🏦 Experience in **financial leasing systems**
 * 💊 Developed **pharmaceutical tracking platforms**
 * 📱 Building mobile apps and small games
-* 🌍 Open source enthusiast
 
 ---
 
