@@ -1,71 +1,78 @@
-# Hi I'm Cevdet Tufan
+# Hi, I'm Cevdet Tufan 👋
 
-Senior .NET Developer with 10+ years of experience building enterprise applications, APIs and financial systems.
+### Senior Software Engineer | .NET | Financial Services
 
-I specialize in backend development using .NET technologies and have worked on large-scale systems in the finance, HR and pharmaceutical sectors.
+Senior Software Engineer with **10+ years of professional experience** building enterprise applications, backend services, APIs, and financial systems.
 
----
+I specialize in **.NET backend development, complex business processes, system integrations, and database-driven enterprise applications**.
 
-##  About Me
-
-* 💻 10+ years professional experience in software development
-* ⚙️ Specialized in **.NET, ASP.NET Core, Web API**
-* 🏦 Experience in **financial leasing systems**
-* 💊 Developed **pharmaceutical tracking platforms**
-* 📱 Building mobile apps and small games
+My professional experience includes **financial leasing, pharmaceutical, and HR systems**, with a strong focus on enterprise software and business-critical applications.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Core Expertise
 
-**Languages**
+- **C# / .NET / ASP.NET Core**
+- REST APIs, Web API & Minimal APIs
+- Entity Framework / EF Core / Dapper
+- SQL Server, Oracle / PL/SQL, PostgreSQL
+- Microservices & Distributed Systems
+- Clean Architecture & Domain-Driven Design
+- Redis & RabbitMQ
+- Docker & CI/CD
+- Authentication & Authorization
+- Enterprise System Integration
 
-C#, SQL
-Dart (learning)
+---
 
-**Frameworks**
+## 💼 Professional Focus
 
-ASP.NET
-ASP.NET MVC
-ASP.NET Core
-Web API
-Minimal API
-Entity Framework / EF Core
+### 🏦 Financial Services
 
-**Databases**
+- Financial leasing systems
+- Payment plan management
+- Contract management
+- Accounting processes
+- Proposal and application workflows
+- Complex business rules
+- Enterprise integrations
 
-MS SQL Server
-Oracle PL/SQL
+### 💊 Pharmaceutical
 
-**Tools**
+- Pharmaceutical tracking systems
+- Enterprise applications
+- Business process automation
 
-Git
-Docker
-Redis
-Crystal Reports
+### 👥 Enterprise Applications
+
+- HR and personnel management systems
+- Business workflow applications
+- Database-intensive enterprise systems
+
+---
+
+## 📚 Currently Exploring
+
+- Distributed Systems
+- Microservices Architecture
+- Domain-Driven Design
+- Cloud-native .NET
+- Event-Driven Architecture
+- AI-assisted Software Development
 
 ---
 
 ## 📱 Published App
 
-### Hangman Word Game
+**Hangman Word Game**
 
-A mobile word guessing game published on Google Play.
+A mobile word-guessing game published on Google Play.
 
-Features:
+[View on Google Play](https://play.google.com/store/apps/details?id=com.wordivio.hangman)
 
-* Offline gameplay
-* Progressive difficulty
-* Educational word puzzles
-
-Google Play:
-
-https://play.google.com/store/apps/details?id=com.wordivio.hangman
+---
 
 ## 🌐 Connect
 
-LinkedIn
-https://www.linkedin.com/in/cevdettufan
-
-GitHub
-https://github.com/CevdetTufan
+- [LinkedIn](https://www.linkedin.com/in/cevdettufan)
+- [GitHub](https://github.com/CevdetTufan)
