@@ -75,4 +75,3 @@ A mobile word-guessing game published on Google Play.
 ## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/cevdettufan)
-- [GitHub](https://github.com/CevdetTufan)
