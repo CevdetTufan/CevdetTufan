@@ -1,4 +1,4 @@
-# Hi, I'm Cevdet Tufan 👋
+# Hi, I'm Cevdet Tufan
 
 ### Senior Software Engineer | .NET | Financial Services
 
